@@ -4,17 +4,17 @@ Sou Téc. em Desenvolvimento de Sistemas pelo Instituto Federal do Piauí - IFPI
 Assim como em Desenvolvimento de Sistemas, também estou me desenvolvendo nesse mundo da programação.  
 
 Linguagens e frameworks:  
-<img src="svg/python.svg" alt="">
-<img src="svg/js.svg" alt="">
-<img src="svg/html.svg" alt="">
-<img src="svg/css.svg" alt="">
-<img src="svg/django.svg" alt="">  
+[<img src="svg/python.svg" alt="">](https://www.python.org/)
+[<img src="svg/js.svg" alt="">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="svg/html.svg" alt="">](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
+[<img src="svg/css.svg" alt="">](https://developer.mozilla.org/pt-BR/docs/Learn/CSS)
+[<img src="svg/django.svg" alt="">](https://docs.djangoproject.com/en/5.0/)  
 Linguagens e Frameworks que estou aprendendo:  
-<img src="svg/java.svg" alt="">
-<img src="svg/angular.svg" alt="">
-<img src="svg/csharp.svg" alt="">
-<img src="svg/dotnet.svg" alt="">
-<img src="svg/springboot.svg" alt="">
+[<img src="svg/java.svg" alt="">](https://docs.oracle.com/en/java/)
+[<img src="svg/angular.svg" alt="">](https://angular.io/docs)
+[<img src="svg/csharp.svg" alt="">](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[<img src="svg/dotnet.svg" alt="">](https://learn.microsoft.com/en-us/dotnet/)
+[<img src="svg/springboot.svg" alt="">](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 <div>
   <a href="https://github.com/SrJohn369">
