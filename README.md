@@ -8,7 +8,11 @@ Linguagens e frameworks:
 [<img src="svg/js.svg" alt="">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img src="svg/html.svg" alt="">](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
 [<img src="svg/css.svg" alt="">](https://developer.mozilla.org/pt-BR/docs/Learn/CSS)
-[<img src="svg/django.svg" alt="">](https://docs.djangoproject.com/en/5.0/)  
+[<img src="svg/django.svg" alt="">](https://docs.djangoproject.com/en/5.0/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" style="width:44px; height:44px"/>](https://www.django-rest-framework.org/)  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" style="width:44px; height:44px"/>](https://docs.docker.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:44px; height:44px"/>](https://git-scm.com/doc)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" style="width:44px; height:44px"/>](https://www.postgresql.org/docs/)  
 Linguagens e Frameworks que estou aprendendo:  
 [<img src="svg/java.svg" alt="">](https://docs.oracle.com/en/java/)
 [<img src="svg/angular.svg" alt="">](https://angular.io/docs)
