@@ -21,7 +21,7 @@ Assim como em Desenvolvimento de Sistemas, também estou me desenvolvendo nesse 
 [<img src="svg/springboot.svg" alt="">](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 ### :computer:Projetos que quero destacar:
 ![script_dados_loteria](https://img.shields.io/badge/script_dados_loteria-%234169E1?style=for-the-badge)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)  
+![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)  
 Este porjeto mostra como, usando Python, podemos capturar dados de um arquivo .xlsx e armazenar em um banco de dados  
 * Clique [aqui](https://github.com/SrJohn369/Scripts-Dados-Loteria) para acessar o repositório do projeto!  
   
