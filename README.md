@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=SrJohn369&style=for-the-badge)  
 Sou Téc. em Desenvolvimento de Sistemas pelo Instituto Federal do Piauí - IFPI.  
 Assim como em Desenvolvimento de Sistemas, também estou me desenvolvendo nesse mundo da programação.  
+Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 
 ### 🤓Linguagens e frameworks:  
 ![python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
