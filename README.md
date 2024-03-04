@@ -14,7 +14,8 @@ Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" style="width:44px; height:44px"/>](https://www.django-rest-framework.org/)  
 ![docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=black)
 ![git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black)
-![postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![sqlite](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite)  
 ### :books:Linguagens e Frameworks que estou aprendendo:  
 [<img src="svg/java.svg" alt="">](https://docs.oracle.com/en/java/)
 [<img src="svg/angular.svg" alt="">](https://angular.io/docs)
