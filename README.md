@@ -1,5 +1,6 @@
 ### Hello there 👋 Welcome to my GitHub!😄
 ---
+![](https://komarev.com/ghpvc/?username=SrJohn369&style=for-the-badge)  
 Sou Téc. em Desenvolvimento de Sistemas pelo Instituto Federal do Piauí - IFPI.  
 Assim como em Desenvolvimento de Sistemas, também estou me desenvolvendo nesse mundo da programação.  
 
