@@ -22,18 +22,13 @@ Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 [<img src="svg/csharp.svg" alt="">](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [<img src="svg/dotnet.svg" alt="">](https://learn.microsoft.com/en-us/dotnet/)
 [<img src="svg/springboot.svg" alt="">](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-### :computer:Projetos que quero destacar:
-![script_dados_loteria](https://img.shields.io/badge/script_dados_loteria-%234169E1?style=for-the-badge)
-![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)  
-Este porjeto mostra como, usando Python, podemos capturar dados de um arquivo .xlsx e armazenar em um banco de dados  
-* Clique [aqui](https://github.com/SrJohn369/Scripts-Dados-Loteria) para acessar o repositório do projeto!  
-  
-![Static Badge](https://img.shields.io/badge/campus_store-%234169E1?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/status-em_desenvolvimento-blue?style=for-the-badge&labelColor=grey)  
-Este é um projeto e-commerce devenvolvido por mim e uns colegas de escola. Atualmente está em desenvolvimento e documentação do projeto.  
-Há um problema no deploy atual e está sendo resolvido, quando for resolvido será postado aqui o link do site. Também será resolvido outras pendênicas de segurança.  
-Este e-commerce é feito totalmente com django e DRF(Django Rest Framework) para serviço de API  
-* Clique [aqui](https://github.com/SrJohn369/campus-store/tree/main) para acessar o repositório do projeto!
+### :computer:Projetos:
+| Projeto | Status | Breve Descrição | Link de Acesso |
+| :---: |  :---: |  :---: | :---: |
+| ![script_dados_loteria](https://img.shields.io/badge/script_dados_loteria-%234169E1?style=for-the-badge) | ![Concluído](http://img.shields.io/static/v1?label=&message=CONCLUÍDO&color=GREEN&style=for-the-badge) | Lê dados de um .xlsx e guarda em um banco de dados | Clique [aqui](https://github.com/SrJohn369/Scripts-Dados-Loteria) |  
+| ![Static Badge](https://img.shields.io/badge/campus_store-%234169E1?style=for-the-badge) | ![Desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-blue?style=for-the-badge&labelColor=grey) | E-commerce para escolas | Clique [aqui](https://github.com/SrJohn369/campus-store/tree/main) |
+| ![Static Badge](https://img.shields.io/badge/Gerenciador_Escolar-%234169E1?style=for-the-badge) | ![Desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-blue?style=for-the-badge&labelColor=grey) | Gerenciador Escolar simples para uma direção gerir Alunos, Turmas, Docentes, Disciplinas e outros Diretores | Clique [aqui](https://github.com/SrJohn369/SysWebSchoolManagement) |
+
 ----
 <div>
   <a href="https://github.com/SrJohn369">
