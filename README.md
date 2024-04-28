@@ -25,9 +25,10 @@ Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 ### :computer:Projetos:
 | Projeto | Status | Breve Descrição | Link de Acesso |
 | :---: |  :---: |  :---: | :---: |
-| ![script_dados_loteria](https://img.shields.io/badge/script_dados_loteria-%234169E1?style=for-the-badge) | ![Concluído](http://img.shields.io/static/v1?label=&message=CONCLUÍDO&color=GREEN&style=for-the-badge) | Lê dados de um .xlsx e guarda em um banco de dados | Clique [aqui](https://github.com/SrJohn369/Scripts-Dados-Loteria) |  
-| ![Static Badge](https://img.shields.io/badge/campus_store-%234169E1?style=for-the-badge) | ![Desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-blue?style=for-the-badge&labelColor=grey) | E-commerce para escolas | Clique [aqui](https://github.com/SrJohn369/campus-store/tree/main) |
-| ![Static Badge](https://img.shields.io/badge/Gerenciador_Escolar-%234169E1?style=for-the-badge) | ![Desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-blue?style=for-the-badge&labelColor=grey) | Gerenciador Escolar simples para uma direção gerir Alunos, Turmas, Docentes, Disciplinas e outros Diretores | Clique [aqui](https://github.com/SrJohn369/SysWebSchoolManagement) |
+| ![script_dados_loteria](https://img.shields.io/badge/script_dados_loteria-%23234169E1?style=for-the-badge) | ![Concluído](http://img.shields.io/static/v1?label=&message=CONCLUÍDO&color=GREEN&style=for-the-badge) | Lê dados de um .xlsx e guarda em um banco de dados | Clique [aqui](https://github.com/SrJohn369/Scripts-Dados-Loteria) |  
+| ![Static Badge](https://img.shields.io/badge/campus_store-%23234169E1?style=for-the-badge) | ![Desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-blue?style=for-the-badge&labelColor=grey) | E-commerce para escolas | Clique [aqui](https://github.com/SrJohn369/campus-store/tree/main) |
+| ![Static Badge](https://img.shields.io/badge/Gerenciador_Escolar-%23234169E1?style=for-the-badge) | ![Desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-blue?style=for-the-badge&labelColor=grey) | Gerenciador Escolar simples para uma direção gerir Alunos, Turmas, Docentes, Disciplinas e outros Diretores | Clique [aqui](https://github.com/SrJohn369/SysWebSchoolManagement) | 
+| ![Static Badge](https://img.shields.io/badge/Gerenciador_Investimentos-%23234169E1?style=for-the-badge) | ![Concluído](http://img.shields.io/static/v1?label=&message=CONCLUÍDO&color=GREEN&style=for-the-badge) | Um gerenciador de investimentos em ações da B3 - Trabalho escolar com Python-TkInter | Clique [aqui](https://github.com/SrJohn369/Gerenciador-de-investiments---Trabalho-escolar) |
 
 ----
 <div>
