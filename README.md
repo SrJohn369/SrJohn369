@@ -9,9 +9,7 @@ Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 ![python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![html5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=black)
-![css3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=black)
-![django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" style="width:44px; height:44px"/>](https://www.django-rest-framework.org/)  
+![css3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=black)  
 ![docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=black)
 ![git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black)
 ![postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -19,13 +17,10 @@ Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 ### :books:Linguagens e Frameworks que estou aprendendo:  
 [<img src="svg/java.svg" alt="">](https://docs.oracle.com/en/java/)
 [<img src="svg/angular.svg" alt="">](https://angular.io/docs)
-[<img src="svg/csharp.svg" alt="">](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-[<img src="svg/dotnet.svg" alt="">](https://learn.microsoft.com/en-us/dotnet/)
 [<img src="svg/springboot.svg" alt="">](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 ### :computer:Projetos:
 | Projeto | Status | Breve Descrição | Link de Acesso | Linguagem Principal |
 | :---: |  :---: |  :---: | :---: | :---: |
-| Script Dados de Loteria | ![Concluído](http://img.shields.io/static/v1?label=&message=CONCLUÍDO&color=GREEN&style=for-the-badge) | Lê dados de um .xlsx e guarda em um banco de dados | Clique [aqui](https://github.com/SrJohn369/Scripts-Dados-Loteria) | <img width="38" height="38" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  
 | ![Static Badge](https://img.shields.io/badge/campus_store-%23234169E1?style=for-the-badge) | ![Desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-blue?style=for-the-badge&labelColor=grey) | E-commerce para escolas | Clique [aqui](https://github.com/SrJohn369/campus-store/tree/main) | <img width="38" height="38" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 | Gerenciador Escolar | ![Desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-blue?style=for-the-badge&labelColor=grey) | Gerenciador Escolar simples para uma direção gerir Alunos, Turmas, Docentes, Disciplinas e outros Diretores | Clique [aqui](https://github.com/SrJohn369/SysWebSchoolManagement) | <img width="38" height="38" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 | Gerenciador de Investimentos | ![Concluído](http://img.shields.io/static/v1?label=&message=CONCLUÍDO&color=GREEN&style=for-the-badge) | Um gerenciador de investimentos em ações da B3 - Trabalho escolar com Python-TkInter | Clique [aqui](https://github.com/SrJohn369/Gerenciador-de-investiments---Trabalho-escolar) | <img width="38" height="38" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
