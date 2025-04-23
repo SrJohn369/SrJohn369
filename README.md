@@ -14,8 +14,6 @@ Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 ![git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black)
 ![postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite)  
-### :books:Linguagens e Frameworks que estou aprendendo:  
-[<img src="svg/angular.svg" alt="">](https://angular.io/docs)
 ### :computer:Projetos:
 | Projeto | Status | Breve Descrição | Link de Acesso | Linguagem Principal |
 | :---: |  :---: |  :---: | :---: | :---: |
