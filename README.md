@@ -5,7 +5,7 @@ Sou Téc. em Desenvolvimento de Sistemas pelo Instituto Federal do Piauí - IFPI
 Assim como em Desenvolvimento de Sistemas, também estou me desenvolvendo nesse mundo da programação.  
 Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 
-### 🤓Linguagens e frameworks:  
+### 🤓Tecnologias:  
 ![python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![html5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=black)
