@@ -14,7 +14,7 @@ Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 ![git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black)
 ![postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite)  
-![react](https://img.shields.io/badge/react-%2361DAFB?style=flat-square&logo=react&logoColor=black&color=%2361DAFB)  
+![react](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB)  
 
 
 ----
