@@ -1,9 +1,8 @@
 ### Hello there 👋 Welcome to my GitHub!😄
 ---
 ![](https://komarev.com/ghpvc/?username=SrJohn369&style=for-the-badge)  
-Sou Téc. em Desenvolvimento de Sistemas pelo Instituto Federal do Piauí - IFPI.  
-Assim como em Desenvolvimento de Sistemas, também estou me desenvolvendo nesse mundo da programação.  
-Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
+Fullstack Developer with a backend-first mindset (Python & React).
+I design structured systems, build scalable APIs, and deliver clean, functional user interfaces. Explore the live project below to see my approach to architecture, performance, and real-world problem solving.
 
 ### 🤓Tecnologias:  
 ![python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
