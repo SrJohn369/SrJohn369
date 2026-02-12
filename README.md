@@ -14,11 +14,8 @@ Atualmente estou cursando Ciência da Computação - Anhanguera Ampli.
 ![git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black)
 ![postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite)  
-### :computer:Projetos:
-| Projeto | Status | Breve Descrição | Link de Acesso | Linguagem Principal |
-| :---: |  :---: |  :---: | :---: | :---: |
-| Gerenciador de Investimentos | ![Concluído](http://img.shields.io/static/v1?label=&message=CONCLUÍDO&color=GREEN&style=for-the-badge) | Um gerenciador de investimentos em ações da B3 - Trabalho escolar com Python-TkInter | Clique [aqui](https://github.com/SrJohn369/Gerenciador-de-investiments---Trabalho-escolar) | <img width="38" height="38" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-| Conversor de Moedas | ![Concluído](http://img.shields.io/static/v1?label=&message=CONCLUÍDO&color=GREEN&style=for-the-badge) | App acessado via terminal usado para converter moedas como USD -> BRL utilizando uma API externa para receber os valores das cotações em tempo real | Clique [aqui](https://github.com/SrJohn369/Java-Conversor-de-Moedas-Challenge/tree/main) | <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+![react](https://img.shields.io/badge/react-%2361DAFB?style=flat-square&logo=react&logoColor=black&color=%2361DAFB)  
+
 
 ----
 <div>
