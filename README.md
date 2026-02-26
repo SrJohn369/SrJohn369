@@ -15,10 +15,4 @@ I design structured systems, build scalable APIs, and deliver clean, functional 
 ![sqlite](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite)  
 ![react](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB)  
 
-
 ----
-<div>
-  <a href="https://github.com/SrJohn369">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrJohn369&layout=compact&langs_count=7&theme=codeSTACKr"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SrJohn369&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-</div>
